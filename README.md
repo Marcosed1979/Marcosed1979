@@ -1,6 +1,10 @@
 ### May the force be with you!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcosed1979&count_private=true&theme=onedark)](https://github.com/Marcosed1979/github-readme-stats)
+<div>
+  <a href="https://github.com/Marcosed1979">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcosed1979&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosed1979&layout=compact&langs_count=7&theme=onedark"/>
+</div>
 
 <!--
 **Marcosed1979/Marcosed1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
