@@ -8,6 +8,7 @@
 
 ### Links interessantes
   * https://devdocs.io/
+  * https://developer.mozilla.org/pt-BR/
 <!--
 **Marcosed1979/Marcosed1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
